@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "AndroidBuildMCP": {
+      "command": "node",
+      "args": [
+        "/home/qyper/AndroidStudioProjects/androidbuildmcp/dist/index.js"
+      ]
+    }
+  }
+}
